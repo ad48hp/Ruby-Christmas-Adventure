@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 96f07311009417140b634da3bd0d7e22
+timeCreated: 1507649015
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CINEMA_4D_Editor
+    100004: Kloub_6
+    100006: Kloub_6_2
+    100008: Kloub_6_3
+    100010: Kloub_6_4
+    100012: Kloub_6_5
+    100014: Kloub_7
+    100016: Kloub_7_2
+    100018: Kloub_7_3
+    100020: Kloub_7_4
+    100022: Kloub_7_5
+    100024: Kloub_8
+    100026: Kloub_8_2
+    100028: Kloub_8_3
+    100030: Kloub_8_4
+    100032: Kloub_9
+    100034: Kloub_9_2
+    100036: Kloub_9_3
+    100038: Kloub_9_4
+    100040: Koule
+    100042: Osy
+    100044: Osy_1
+    100046: "V\xE1lec_5"
+    400000: //RootNode
+    400002: CINEMA_4D_Editor
+    400004: Kloub_6
+    400006: Kloub_6_2
+    400008: Kloub_6_3
+    400010: Kloub_6_4
+    400012: Kloub_6_5
+    400014: Kloub_7
+    400016: Kloub_7_2
+    400018: Kloub_7_3
+    400020: Kloub_7_4
+    400022: Kloub_7_5
+    400024: Kloub_8
+    400026: Kloub_8_2
+    400028: Kloub_8_3
+    400030: Kloub_8_4
+    400032: Kloub_9
+    400034: Kloub_9_2
+    400036: Kloub_9_3
+    400038: Kloub_9_4
+    400040: Koule
+    400042: Osy
+    400044: Osy_1
+    400046: "V\xE1lec_5"
+    2000000: CINEMA_4D_Editor
+    2300000: Koule
+    3300000: Koule
+    4300000: "V\xE1lec_5"
+    4300002: Koule
+    9500000: //RootNode
+    13700000: "V\xE1lec_5"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
